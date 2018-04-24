@@ -8,7 +8,8 @@
 
 #### Details
 
-###### chapter 1
+##### chapter 1
+
 1- create docker machine hosts file
 2- evaluate docker machine env
 
