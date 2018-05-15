@@ -1,1 +1,1 @@
-docker save --output=fedora.tar fedora
+docker export CONTAINER > CONTAINERxyz.tar
