@@ -15,5 +15,8 @@
 
 2- evaluate docker machine env
 
+#### chapter 3
+
+- create an image using container e.g fedora_with_httpd.sh
 
 
