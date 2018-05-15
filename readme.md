@@ -18,5 +18,6 @@
 #### chapter 3
 
 - create an image using container e.g fedora_with_httpd.sh
-
+- push image to docker hub
+- export image
 
