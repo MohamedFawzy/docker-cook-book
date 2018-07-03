@@ -1,0 +1,5 @@
+FROM python:3.3
+RUN pip install flask
+RUN pip install pytest
+WORKDIR /test
+CMD ["/usr/local/bin/py.test"]
