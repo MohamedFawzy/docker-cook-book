@@ -30,3 +30,6 @@
 
 ### chapter 6
 - Docker Apis and language binding
+
+### chapter 7
+- Docker performance 
