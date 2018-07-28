@@ -14,6 +14,7 @@ docker-machine create -d virtualbox local2
 - verifiy your machines with command `docker-machine ls` you should see three
   machines ended with 10x and names localx
 
-- create cluster manager for machine local with the following command `docker-machine ssh local "docker swarm init --advertise-addr 192.168.99.100`
+- create cluster manager for machine local with the following command `docker-machine ssh local "docker swarm init --advertise-addr 192.168.99.100`  
+you should see something like this ![alt text](https://github.com/MohamedFawzy/docker-cook-book/blob/master/imgs/1.png)
 
 

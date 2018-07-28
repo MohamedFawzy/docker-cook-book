@@ -32,4 +32,7 @@
 - Docker Apis and language binding
 
 ### chapter 7
-- Docker performance 
+- Docker performance
+
+### chapter 8
+- Docker cluster
